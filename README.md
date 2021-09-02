@@ -1,24 +1,6 @@
 # product-and-cart
 
-## Project setup
-```
-npm install
-```
+This is one of the companion repos to the Vue.js course on the freeCodeCamp YouTube channel.
+You can see the different stages of development by checking out the other branches.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Special thanks to [TheJaredWilcurt](https://github.com/TheJaredWilcurt) for helping out with the initial static code and doing pretty much all of the styling.
